@@ -1,0 +1,122 @@
+.bmw{
+    margin-right: 30px;
+}
+
+.mercedes{
+    margin-right: 30px;
+}
+
+.audi{
+    margin-right: 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.wv{
+    background-image: url("https://avatars.avto.ru/get-autoru-vos/14916128/d506fea3a57dbd05c628882dd587d6f6/1200x900");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.aw{
+    color: white;
+    margin-left: 450px;
+}
+
+.bmwm{
+    background-image: url(https://avatars.avto.ru/get-autoru-vos/11608341/e69ea8d07dded9fb5835fc876874add6/1200x900);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.awr{
+    margin-top: 300px;
+    font-size: 200px;
+}
+
+footer{
+    background-image: url(https://i.pinimg.com/originals/34/10/a4/3410a4cd5f0688a29f31ea41fefbfea8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.abcdef{
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.bmww{
+    color: white;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+
+.bmwe{
+    margin-bottom: 30px;
+    color: white;
+}
+
+.merc{
+    background-image: url(https://avatars.avto.ru/get-autoru-vos/2176986/54390b8e1ffd08b319bdb5721355a125/1200x900);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.amg{
+    color: white;
+    margin-top: 200px;
+    font-size: 200px;
+}
+
+.rocket{
+    background-image: url(https://avatars.avto.ru/get-autoru-vos/2168768/d780aadebd77ff739fca70ff67be424f/1200x900);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.audir{
+    background-image: url(https://avatars.avto.ru/get-autoru-vos/2165425/13d0fbefbc1a5bf9bc026e187a3f8981/1200x900);
+      background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.audirs{
+     margin-top: 300px;
+     font-size: 200px;
+}
+
+.aidi{
+    background-image: url(https://avatars.avto.ru/get-autoru-vos/5494317/d73b3e7b42d8a2b4ba46ad24ed84465d/1200x900);
+      background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.volks{
+     margin-top: 300px;
+     font-size: 200px;
+}
+
+.vol{
+    background-image: url(https://a1.drive-data.ru/0937DsSUMx11y7Dp65OycFFkHmg-960.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
